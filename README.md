@@ -204,4 +204,4 @@ Total risk = BP score + Temperature score + Age score
 ---
 
 **Built by JaQuan Earls**  
-Healthcare API Assessment Solution - December 2024
+Healthcare API Assessment Solution - December 2025
