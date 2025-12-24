@@ -1,0 +1,11 @@
+{
+  "name": "healthcare-api-assessment",
+  "version": "1.0.0",
+  "description": "Healthcare API Assessment Solution",
+  "main": "healthcare-assessment.js",
+  "scripts": {
+    "start": "node healthcare-assessment.js"
+  },
+  "author": "JaQuan Earls",
+  "license": "MIT"
+}
